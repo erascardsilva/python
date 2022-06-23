@@ -1,6 +1,6 @@
 """
         Jogo adivinhar palavra
-
+Erasmo Cardoso
 """
 
 palavra = input('  Digite a palavra  :  ')
