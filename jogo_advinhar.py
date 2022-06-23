@@ -1,6 +1,7 @@
 """
+        Python
         Jogo adivinhar palavra
-Erasmo Cardoso
+        Erasmo Cardoso
 """
 
 palavra = input('  Digite a palavra  :  ')
